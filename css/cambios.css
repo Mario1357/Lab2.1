@@ -1,0 +1,34 @@
+h1{
+    text-align: center;
+    text-decoration: overline underline;
+}
+main{
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+nav{
+    margin-top: 10px;
+    text-align: center;
+    background-color:green;
+    color: white;
+}
+li{
+    list-style-type:circle;
+}
+footer {
+    float:inline-start;
+    font-style:oblique;
+	background-color: black;
+	color: white;
+	text-align: center;
+}
+h4{
+    text-align: center;
+    background-color: bisque;
+}
+address{
+    text-align: center;
+    font-weight:bold;
+}
+
+
